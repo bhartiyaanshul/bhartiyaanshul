@@ -14,9 +14,8 @@
         </samp>
 </h3>
 <br>
-###
 
-<div align="left">
+<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30" alt="cplusplus logo"  />
@@ -34,7 +33,7 @@
 
 ###
 
-<div align="left">
+<div align="center">
   
 <p>
   <a target="_blank"href="https://www.linkedin.com/in/anshulbhartiya/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
@@ -42,7 +41,7 @@
   <a href="mailto:bhartiyaanshul@gmail.com?subject=Hello%20Vraj,%20From%20Github"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://www.instagram.com/im.anshull/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
-</div>
+
 
 ###
 

@@ -3,6 +3,8 @@
         <samp>&gt; Hey There!, I am
                 <b><a target="_blank" href="https://github.com/bhartiyaanshul/">Anshul Bhartiya</a></b>
         </samp>
+        <br>
+        <br>
         <samp>
                 「 I'm a software developer student from <b>Ahmedabad</b> 」
                 <br>

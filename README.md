@@ -1,5 +1,10 @@
-<h2 align="left">Hi 👋! My name is Anshul Bhartiya.</h2>
-
+<!-- Title -->
+<h3 align="center">
+        <samp>&gt; Hey There!, I am
+                <b><a target="_blank" href="https://github.com/bhartiyaanshul/">Anshul Bhartiya</a></b>
+        </samp>
+</h3>
+<br>
 ###
 
 <div align="left">

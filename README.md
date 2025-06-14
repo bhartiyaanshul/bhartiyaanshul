@@ -6,7 +6,7 @@
         <br>
         <br>
         <samp>
-                「 I'm a software developer student from <b>Ahmedabad</b> 」
+                「 I'm a software developer from <b>Ahmedabad</b> 」
                 <br>
                 「 Focused on creating impactful codes that improve lives</b> 」
                 <br>
